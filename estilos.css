@@ -157,7 +157,13 @@ nav a:hover{
     border:1px solid rgb(145, 228, 145) ;
     color:white;
 }
+#yoo{
+    border-radius: 15px;
+width: 350px;
+height: 350px;
 
+
+}
 
 /* habilidades */
 
@@ -299,7 +305,6 @@ footer{
 
 	color: #FFFFFF;
 }
-
 
 
 

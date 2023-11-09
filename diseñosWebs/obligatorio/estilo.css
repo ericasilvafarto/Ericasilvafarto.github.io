@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
 
+
 * {
 
   margin: 0em;
@@ -359,7 +360,6 @@ blockquote {
   width: 11em;
   padding: 0.5em;
   position: absolute;
-  right: -0.5em;
   top: 1em;
   color: #755006;
 }
@@ -470,6 +470,7 @@ select {
   margin-bottom: 0.5em;
 }
 
+
 #acepto {
   margin-top: 2.5em;
 }
@@ -498,7 +499,6 @@ select {
 #chat {
   position: absolute;
   width: 17vh;
-  height: 7em;
   bottom: 0.1em;
   right: 2em;
   background-color: #fbdea2;
@@ -508,6 +508,7 @@ select {
 
 footer {
   min-width: 1200px;
+  max-width: 1400px;
   background-color: #fb9da7;
   color: #304B35;
   height: 11em;
@@ -830,7 +831,7 @@ td {
 .cookie-rain {
   position: absolute;
   width: 100%;
-  height: 35%;
+  height: 25%;
   animation: fall 3s linear infinite;
 }
 
