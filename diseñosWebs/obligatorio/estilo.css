@@ -507,8 +507,7 @@ select {
 }
 
 footer {
-  min-width: 1200px;
-  max-width: 1400px;
+
   background-color: #fb9da7;
   color: #304B35;
   height: 11em;
@@ -528,7 +527,7 @@ footer p {
 }
 
 .iconosFooter {
-  width: 6vh;
+  width: 5vh;
   margin-left: 0.5em;
   margin-right: 0.5em;
 
@@ -796,6 +795,7 @@ td {
   border: 1px solid #f9d835;
   border-radius: 10px;
   max-width: 400px;
+  height: 400px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   position: relative;
   z-index: 1;
@@ -819,7 +819,7 @@ td {
   padding: 1em 2em;
   border-radius: 0.5em;
   font-weight: bold;
-  margin-top: 1em;
+  margin-top: 4em;
   transition: 0.2s;
 }
 
